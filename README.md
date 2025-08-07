@@ -55,14 +55,12 @@ Here are some of the projects I developed. These projects demonstrate my experti
 
 <p align="center">
 
-  <!-- GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=zulvanavito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=zulvanavito&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   </a>
 
-  <!-- Top Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulvanavito&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulvanavito&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true" />
   </a>
 
 </p>
