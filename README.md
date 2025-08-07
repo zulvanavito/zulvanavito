@@ -65,10 +65,6 @@ Here are some of the projects I developed. These projects demonstrate my experti
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulvanavito&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true" />
   </a>
 
-  <!-- GitHub Streak -->
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulvanavito&theme=radical&hide_border=false" />
-
 </p>
 
 ---
