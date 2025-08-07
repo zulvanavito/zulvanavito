@@ -1,31 +1,78 @@
-# 💫 About Me:
-🌱 I’m currently learning React and Flutter<br>💬 Ask me about Development Mobile Android<br>👨‍💻 All of my projects are available at zulvanavito.my.id<br>📝 I regularly write articles on https://medium.com/@zulvanavito_<br>📄 Know about my experiences zulvanavito.my.id<br>📫 How to reach me shawanggara@gmail.com<br>⚡ Fun fact I love videography and photography!
+<h1 align="center">Hi, I'm Ito 👋</h1>
+<h3 align="center">Website and Mobile Developer and Project Manager Oriented</h3>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt6ZGQwNWJ2YWZzNm1kYjl5YXBidGx1bnp0NmllajdrY2Voc25qaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Full-Stack Developer GIF" width="500"/>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Zulvan Avito) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zulvanavito_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zulvan Avito Anwari) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zulvanavito_) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Zulvan Avito) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zulvan_avito) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Zulvan Avito) 
+I'm a developer passionate about building mobile and web applications, particularly interactive front-end applications. I'm also an **IT Project Manager** with experience managing several startup projects in Bali, Indonesia!
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zulvanavito&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zulvanavito&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zulvanavito&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zulvanavito&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zulvanavito&limit=5&theme=radical&combine_all_yearly_contributions=true)
+- 🔭 Open to new career opportunities.
+- 🌱 I deepened my knowledge in Frontend with **JavaScript**,
+- 💻 I also studied mobile development with **Flutter**
+- 💬 I'm open to collaborating on interesting projects. Feel free to reach out!
+- 📫 How to reach me: **[zavitoanwari@gmail.com](mailto:zavitoanwari@gmail.com)**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zulvanavito&icon=5&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://saweria.co/zaaxito) 
+### 🛠️ My Tech Stack
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Frontend:**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,tailwind,react,vite,nextjs" alt="Frontend Skills" />
+</p>
+
+**Mobile:**
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,kotlin,flutter,gradle" alt="Backend Skills" />
+</p>
+
+**Backend:**
+<p>
+  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql" alt="Backend Skills" />
+</p>
+
+**Tools:**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,webpack,docker,discord" alt="Tools" />
+</p>
+
+---
+
+### 🚀 My Projects
+
+Here are some of the projects I developed. These projects demonstrate my expertise in various aspects of web development and Mobile Development.
+
+| Project                                                                      | Description                                                                                                                               |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Living Lab FTK](https://github.com/zulvanavito/livingLabFTK)** | An android application built with the Flutter framework. **(Flutter, Dart, Gradle, Firebase)** |
+| **[Plastira](https://github.com/zulvanavito/Plastira)** | Plastira is an MVP web application that literally makes a big impact in solving the waste problem in society, especially plastic waste.. **(TypeScript, Next.js, Express, MongoDB)** |
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=zulvanavito&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulvanavito&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true" />
+  </a>
+
+  <!-- GitHub Streak -->
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulvanavito&theme=radical&hide_border=false" />
+
+</p>
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+<a href="www.linkedin.com/in/zulvanavito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
