@@ -47,6 +47,7 @@ Here are some of the projects I developed. These projects demonstrate my experti
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | **[Living Lab FTK](https://github.com/zulvanavito/livingLabFTK)** | An android application built with the Flutter framework. **(Flutter, Dart, Gradle, Firebase)** |
 | **[Plastira](https://github.com/zulvanavito/Plastira)** | Plastira is an MVP web application that literally makes a big impact in solving the waste problem in society, especially plastic waste.. **(TypeScript, Next.js, Express, MongoDB)** |
+| **[Brait Translator]([https://github.com/zulvanavito/Plastira](https://github.com/BRAIT-Braille-Translator/BRAIT-Mobile-Dev))** | This repository contains the mobile application development code for Brait, an app for translate braille to latin word. **(TypeScript, Next.js, Express, MongoDB)** |
 
 ---
 
