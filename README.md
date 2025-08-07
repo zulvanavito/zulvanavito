@@ -29,7 +29,7 @@ I'm a developer passionate about building mobile and web applications, particula
 
 **Backend:**
 <p>
-  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql, firebase" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,firebase" alt="Backend Skills" />
 </p>
 
 **Tools:**
