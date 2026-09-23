@@ -35,7 +35,10 @@ I'm a developer passionate about building practical digital products, interactiv
 
 **Mobile:**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,dart,flutter,kotlin,gradle,androidstudio" alt="Mobile Skills" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,gradle,androidstudio" alt="Mobile Skills" />
+  <br />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
 ---
@@ -58,10 +61,10 @@ Here are some of my recent projects and experiments across AI, web development, 
 
 <p align="center">
   <a href="https://github.com/zulvanavito">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=zulvanavito&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Ito's GitHub stats" />
+    <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zulvanavito&show_icons=true&theme=radical&hide_border=true" alt="Ito's GitHub stats" />
   </a>
   <a href="https://github.com/zulvanavito">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulvanavito&layout=compact&langs_count=8&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Ito's top languages" />
+    <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zulvanavito&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Ito's top languages" />
   </a>
 </p>
 
